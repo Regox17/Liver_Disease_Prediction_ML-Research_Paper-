@@ -22,10 +22,8 @@ This project explores the application of machine learning algorithms for predict
 - `data/` → ILPD dataset
 - `notebook/` → Jupyter Notebook with code
 - `report/` → Final research paper and graphs
-- `src/` → Python script for model pipeline
 
 ## 📌 Dataset
 Indian Liver Patient Dataset (ILPD) from the UCI Machine Learning Repository.
 
-## 📜 License
-MIT License
+
