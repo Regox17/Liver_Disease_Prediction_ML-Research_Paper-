@@ -18,10 +18,6 @@ This project explores the application of machine learning algorithms for predict
 - Specificity
 - ROC-AUC
 
-## 📁 Project Structure
-- `data/` → ILPD dataset
-- `notebook/` → Jupyter Notebook with code
-- `report/` → Final research paper and graphs
 
 ## 📌 Dataset
 Indian Liver Patient Dataset (ILPD) from the UCI Machine Learning Repository.
